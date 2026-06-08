@@ -1,5 +1,14 @@
 # 💫 About Me:
-I'm currently working as a Software Developer 2 in Korn Ferry.<br>I'm a part of platform team in Korn Ferry,<br>I'm responsible to handle API services of our platform team, deployments to AWS API Gateway services.<br>Also handling few nest js packages and dotnet packages that is being used by other APP teams
+Hi, I'm Bhuvan Agarwal, a Software Developer 2 at Korn Ferry, currently working within the Platform Engineering team.
+
+I specialize in designing, developing, and maintaining scalable backend services and platform solutions that support multiple applications across the organization. My primary responsibilities include building and managing API services, handling deployments and integrations with AWS API Gateway, and ensuring reliable platform operations.
+
+In addition to platform development, I maintain and enhance shared NestJS and .NET packages that are consumed by various application teams, helping drive consistency, reusability, and engineering efficiency across the ecosystem.
+
+My expertise includes Backend Development, Microservices Architecture, REST APIs, Node.js, NestJS, C#, .NET, AWS Cloud Services, API Gateway, PostgreSQL, CI/CD, and Software Design Principles. I enjoy solving complex technical challenges, building scalable systems, and creating developer-friendly solutions that enable teams to move faster.
+
+I'm passionate about continuous learning, software architecture, cloud technologies, and building high-quality enterprise applications that deliver real business value.
+
 
 
 ## 🌐 Socials:
